@@ -1,3 +1,9 @@
+Forked to incorporate the chages from Pull Request #85:
+\
+https://github.com/overtrue/phplint/pull/85
+
+
+
 <h1 align="center">PHPLint</h1>
 
 <p align="center">`phplint` is a tool that can speed up linting of php files by running several lint processes at once.</p>
